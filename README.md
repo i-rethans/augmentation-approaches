@@ -44,10 +44,10 @@ The default output filename will have eda_ appended to the front of the input fi
 
 Furthermore, you can adjust different alpha parameters that determine the percentage of words in the sentence to be changed according to specific augmentation rules. The alpha parameters for each method are as follows:
 
-- Insertion: alpha_ri
-- Deletion: alpha_rd
-- Swapping: alpha_rs
-- Synonym Replacement: alpha_sr
+- Insertion: `alpha_ri`
+- Deletion: `alpha_rd`
+- Swapping: `alpha_rs`
+- Synonym Replacement: `alpha_sr`
 
 The default value for the alpha parameters is 0.1 which corresponds to 10%.
 
