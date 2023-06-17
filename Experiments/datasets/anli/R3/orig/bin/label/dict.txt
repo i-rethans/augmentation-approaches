@@ -1,0 +1,4 @@
+contradiction 25770
+entailment 25768
+neutral 25768
+madeupword0000 0
